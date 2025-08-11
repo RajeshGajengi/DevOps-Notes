@@ -214,7 +214,10 @@ An auxiliary container that provides supporting functionalities, such as logging
   kubectl describe pod <pod-name>
   ```
 
+
+
 ---
+
 
 
 
